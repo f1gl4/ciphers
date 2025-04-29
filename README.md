@@ -4,7 +4,7 @@ This repository will contain implementation of various ciphers.
 
 ## Cryptographic library [in process]
 Implementation simple cryptographic library (like openssl). Currently supports MD5, keygen and HMAC.   
-[Cryptolibrary](https://github.com/f1gl4/cpp/tree/main/project)
+[Cryptolibrary](https://github.com/f1gl4/Cryptolib)
 
 ## Currently implemented Ciphers
 
